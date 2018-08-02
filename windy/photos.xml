@@ -1,0 +1,661 @@
+<gallery
+base = ""
+background = "#000000"
+banner = "#585858"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "16/03/2009">
+	<sitename>Mum's birthday at Windy Arbour</sitename>
+	<photographer>Mark and Joanne</photographer>
+	<contactinfo></contactinfo>
+	<email>info@markkirkham.com</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#585858"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#585858" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#585858" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "P1070582.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070582.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070584.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070584.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070587.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070587.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070589.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070589.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070590.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070590.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070592.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070592.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070594.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070594.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070598.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070598.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070600.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070600.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070601.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070601.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070602.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070602.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070603.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070603.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070604.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070604.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070605.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070605.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070607.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070607.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070608.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070608.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070610.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070610.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070611.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070611.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070612.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070612.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070613.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070613.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070614.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070614.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070615.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070615.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070616.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070616.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070617.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070617.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070618.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070618.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070619.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070619.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070620.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070620.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070621.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070621.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070622.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070622.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070623.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070623.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070624.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070624.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070625.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070625.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070627.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070627.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070628.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070628.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070629.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070629.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070633.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070633.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070634.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070634.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070635.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070635.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070636.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070636.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070637.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070637.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070638.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070638.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070639.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070639.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070640.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070640.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070641.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070641.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070642.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070642.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070643.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070643.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070644.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070644.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070645.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070645.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070646.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070646.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070647.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070647.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070648.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070648.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070649.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070649.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070650.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070650.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070651.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070651.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070652.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070652.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070653.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070653.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070654.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070654.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070655.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070655.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070656.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070656.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070657.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070657.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070659.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070659.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070661.jpg"
+width = "337"
+height = "450"
+thumbpath = "P1070661.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "P1070662.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070662.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "P1070663.jpg"
+width = "450"
+height = "337"
+thumbpath = "P1070663.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+</images>
+</gallery>
