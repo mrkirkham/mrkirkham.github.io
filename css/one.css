@@ -1,0 +1,188 @@
+body #wrapper { width: 1100px; }
+body #col3 { width: 700px; }
+body #col3 #content { width: 700px; }
+  
+h1 {
+	margin: .4em 0 .2em 12px; 	
+	letter-spacing: 0.2cm; 
+	padding: 0; 
+	font-family: courier new, sans-serif; 
+	color: #999}
+
+
+	
+h3 {margin: .8em 0 .2em 0; padding: 0; font-family: Lucida, sans-serif}
+    
+p {margin: .2em 0 .2em 0; padding: 0; font-family: Verdana, Geneva, Arial, sans-serif; font-size: 80%; text-transform: uppercase}
+	
+p.detailhead {margin: 20px 5px .2em 27px; padding: 0; font-family: Verdana, Geneva, Arial, sans-serif; color: #A9A9A9; text-transform: none; font-size: 12px}
+
+p.detail {margin: 4px 5px .2em 27px; padding: 0; font-family: Verdana, Geneva, Arial, sans-serif; text-transform: none; font-size: 10px; color: #A9A9A9}
+
+p.index {margin: .2em 0 .2em 0; padding-right: 15px; font-family: Verdana, Geneva, Arial, sans-serif; text-transform: none; font-size: 13px; line-height: 130%; color: #666}
+
+#a href {margin: 8px 5px .2em 0px; padding-right: 15px; font-family: line-height: 200%; Verdana, Geneva, Arial, sans-serif; text-transform: none; font-size: 14px; color: #666}
+
+
+img {margin:0em 0 .2em 12px}
+
+#imgmag img {margin:0px -8px .2em 8px; padding-bottom: 8px}
+
+#imgphoto img {margin:0px -2px .2em 8px; padding-bottom: 4px}
+
+
+
+#navone ul {list-style: none; text-align: left; margin: 5px 5px 5px 12px}
+
+#navone ul li a {left center no-repeat; padding-left: 0px; text-align: left; text-transform: uppercase; font: normal 13px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif; text-decoration: none; color: #999}
+
+#navone ul li a:hover {
+	left center no-repeat; color: black}
+
+#navone ul li a#current {
+	left center no-repeat; color: #666}
+
+#navone ul li.divider-before { 
+	padding-bottom: 1px; 
+	border-bottom: 1px dotted #A9A9A9}
+
+#navoneb ul {
+	list-style: none; 
+	text-align: left; 
+	margin: 5px 5px 5px 5px}
+
+#navoneb ul li a {
+	left center no-repeat; 
+	padding-left: 0px; 
+	text-align: left; 
+	text-transform: uppercase; 
+	font: normal 13px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif; text-decoration: none; color: #999}
+
+#navoneb ul li a:hover {
+	left center no-repeat; color: black}
+
+#navoneb ul li a#current {
+	left center no-repeat; color: #666}
+
+#navtwo ul {
+	margin:0px -4px .2em 10px; 
+	float:left; 
+	text-align: left; 
+	padding-left: 0px}
+
+#navtwo ul li a {
+	padding-left: 0px; 
+	text-align: left; 
+	text-transform: uppercase; 
+	font: normal 13px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif; 
+	text-decoration: none; 
+	color: #999}
+
+#navtwo ul li a:hover {
+	left center no-repeat; 
+	color: black}
+
+#navtwo ul li a#current {
+	left center no-repeat; 
+	color: #666}
+
+
+
+#navcontainer ul {
+	list-style: none; 
+	text-align: left; 
+	margin: 5px 5px 5px -10px;}
+
+#navcontainer ul li a {
+	background: transparent url(images/list-off.gif) 
+	left center no-repeat; 
+	padding-left: 0px; 
+	text-align: left; 
+	text-transform: uppercase; 
+	font: normal 13px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif; 
+	text-decoration: none; 
+	color: #999}
+
+#navcontainer ul li a:hover {
+	background: transparent url(images/list-on.gif) left center no-repeat; 
+	color: black}
+
+#navcontainer ul li a#current {
+	background: transparent url(images/list-active.gif) left center no-repeat; 
+	color: #666}
+    
+
+#footer ul {
+	list-style: none; text-align: left; 
+	margin: 0px 0px 0px 0px}
+
+#footer ul li a {
+	left center no-repeat; 
+	padding-left: 0px; 
+	text-align: left; 
+	text-transform: uppercase; 
+	font: normal 13px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif; 
+	text-decoration: none; 
+	color: #999}
+
+#footer ul li a:hover {
+	left center no-repeat; 
+	color: black}
+
+#footer ul li a#current {
+	left center no-repeat; 
+	color: #666}
+
+
+#wrapper {
+    display: block;
+    width: 770px;
+    background: #FFFFFF;
+    margin: 0
+    padding: 5px 0 5px 0;
+}
+
+
+#col1 {
+    display: inline;
+    float: left; 
+    margin-top: 10px; 
+    background: #e8eae8;
+    padding: 0px 5px 150px 0;
+}
+
+#col1index {
+    display: inline;
+    float: left; 
+    margin-top: 10px; 
+    width: 260px;
+    background: #e8eae8;
+    padding: 0px 5px 150px 0;
+   
+}
+
+#col2 {
+    display: inline;
+    float: left;
+    background: #fff;
+    margin-top: 10px;
+    padding: 0 0 0 0;
+    width: 185px;
+}
+
+#col2index {
+    display: inline;
+    float: left;
+    background: #fff;
+    margin-top: 10px;
+    padding: 0 0 0 0;
+    width: 300px;
+}
+
+#col3 {
+    display: block;
+    float: left;
+    width: 600px;
+    margin-top: 10px;
+}
+
